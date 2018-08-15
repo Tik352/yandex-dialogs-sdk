@@ -1,6 +1,7 @@
 # yandex-dialogs-sdk
 [![npm version](https://badge.fury.io/js/yandex-dialogs-sdk.svg)](https://badge.fury.io/js/yandex-dialogs-sdk)
 
+[Contributors](#Contributors)
 *Note: this is an open-source project. It is not affiliated with Yandex LLC.*
 
 Создавать навыки для Алисы — это очень просто.
@@ -226,6 +227,10 @@ const buyBtn = ctx.buttonBuilder
   .shouldHide(true)
   .get()
 ```
+
+
+###### Important
+code
 
 ## 🔨 Сделано с помощью SDK
 
